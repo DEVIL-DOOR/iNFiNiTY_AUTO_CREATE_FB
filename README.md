@@ -1,21 +1,13 @@
 
 ````markdown
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.png" alt="iNFiNiTY Banner" />
+  alt="iNFiNiTY Banner" />
 </p>
 
 <h1 align="center">🔥 iNFiNiTY_AUTO_CREATE_FB.py 🔥</h1>
 
 <p align="center">
   <b>Free | Powerful | Python Automation Tool</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue">
-  <img src="https://img.shields.io/badge/Status-Active-success">
-  <img src="https://img.shields.io/badge/Tool-Free-red">
-  <img src="https://img.shields.io/badge/License-MIT-green">
-</p>
 
 ---
 
